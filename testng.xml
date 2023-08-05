@@ -6,6 +6,8 @@
       <class name="socialMedia.Whatsapp"/>
       <class name="socialMedia.Facebook"/>
       <class name="socialMedia.Instagram"/>
+      <class name="socialMedia.Telegram"/>
+
     </classes>
   </test> <!-- Test -->
 </suite> <!-- socialmedia -->
