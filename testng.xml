@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="socialmedia">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="socialMedia.Whatsapp"/>
+      <class name="socialMedia.Facebook"/>
+      <class name="socialMedia.Instagram"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- socialmedia -->
